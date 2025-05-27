@@ -52,8 +52,8 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 
 ### Software Testing
 ![ISTQB](https://img.shields.io/badge/ISTQB%20Foundation%20Level-MaharaTech-blue?style=for-the-badge)
-![Nezam](https://img.shields.io/badge/Software%20Testing%20Bootcamp-Nezam%20Academy-purple?style=for-the-badge)
-![Valeo](https://img.shields.io/badge/Testing%20Academy-Valeo-red?style=for-the-badge)
+![Nezam](https://img.shields.io/badge/Nezam-00B2FF?style=for-the-badge&logo=N&logoColor=white&labelColor=FF6B00)
+![Valeo](https://img.shields.io/badge/Valeo-7AB800?style=for-the-badge&logo=valeo&logoColor=white&labelColor=4A4A4A)
 
 #### Nezam Academy Software Testing Bootcamp (Oct 2024 - April 2025)
 - Designed and executed comprehensive test scenarios and test cases using Zephyr Scale
@@ -73,7 +73,7 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 #### MaharaTech Certifications
 - ISTQB® Foundation Level – MaharaTech
 - Introduction to Software Testing Concepts & Techniques – MaharaTech
-- Effective Test Case and Bug Report Writing Techniques – MaharaTech 
+- Effective Test Case and Bug Report Writing Techniques – MaharaTech
 
 ### Embedded Systems
 ![ITI](https://img.shields.io/badge/Embedded%20Systems%20Track-ITI-orange?style=for-the-badge)
