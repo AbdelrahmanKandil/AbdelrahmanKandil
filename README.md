@@ -46,12 +46,27 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![TIVA C](https://img.shields.io/badge/TIVA_C-FF0000?style=for-the-badge&logo=texas-instruments&logoColor=white)
 
-## 📊 Certifications
-- ISTQB® Foundation Level
-- Software Testing Concepts & Techniques
-- Embedded Systems Track (ITI)
-- Embedded Systems Diploma (NTI)
-- Database Fundamentals & SQL
+## 📊 Certifications & Training
+
+### Software Testing
+![ISTQB](https://img.shields.io/badge/ISTQB%20Foundation%20Level-MaharaTech-blue?style=for-the-badge)
+- ISTQB® Foundation Level – MaharaTech
+- Introduction to Software Testing Concepts & Techniques – MaharaTech
+- Effective Test Case and Bug Report Writing Techniques – MaharaTech
+
+### Embedded Systems
+![ITI](https://img.shields.io/badge/Embedded%20Systems%20Track-ITI-orange?style=for-the-badge)
+![NTI](https://img.shields.io/badge/Embedded%20Systems%20Diploma-NTI-orange?style=for-the-badge)
+- Embedded Systems Track - Information Technology Institute (ITI)
+- Embedded Systems Diploma - National Telecommunication Institute (NTI)
+
+### Database
+![SQL](https://img.shields.io/badge/Database%20Fundamentals%20&%20SQL-MaharaTech-blue?style=for-the-badge)
+- Database Fundamentals & SQL – MaharaTech
+
+### Language Skills
+![AUC](https://img.shields.io/badge/Engineering%20English-AUC-red?style=for-the-badge)
+- English for specialized topics (Engineering) by The American University of Cairo (AUC)
 
 ## 🌟 Professional Experience
 - **Sumerge** - Associate Quality Engineer (2025-Present)
