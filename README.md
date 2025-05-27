@@ -74,17 +74,17 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 
 ## 🌟 Professional Experience
 
-### ![Sumerge](https://img.shields.io/badge/Sumerge-FF6B6B?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVDhPY/wPBAx4ACMjI14pBkZGRqBWBrwakRX///+fAWQAEzMzs4GcnNx/QUHB/+Li4v+5ubmhmkAAqyImJiYDoI1qv3//Pv7nz5/Hf//+vf7v378dQPYxNjY2BagSMGBhYVEBOm0qUMNBoOZ1QE2rgJqnA+nJQGxIlI1ATQeBGtcD6WVATUuAmqYCNU0B0pOA2IgoG4Ga1wI1LwdqXATUNB+oaS5Q0ywgPRGIDYiyEahxGVDjAiA9D6hpDlDTTKCmaUB6AhDrE2UjUPM8oMbZQHomUNNUoKZJQHoCEGsRZSNQ8wyg5slAehJQ0wSgpvFAeiwQqxNlI1DzJKDGcUA4FqhpDFDTaCA9CojVGAkF+X8GALz1cK6zl5qTAAAAAElFTkSuQmCC) Associate Quality Engineer (2025-Present)
+### ![Sumerge](https://img.shields.io/badge/Sumerge-4B0082?style=for-the-badge) Associate Quality Engineer (2025-Present)
 - Perform manual and automated testing throughout the SDLC and STLC in Agile projects
 - Design and execute test cases for UI and API testing scenarios
 - Automate test scripts using Selenium and REST Assured
 
-### ![Simuvill](https://img.shields.io/badge/Simuvill-4A90E2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVDhPY/wPBAx4ACMjI14pBkZGRqBWBrwakRX///+fAWQAEzMzs4GcnNx/QUHB/+Li4v+5ubmhmkAAqyImJiYDoI1qv3//Pv7nz5/Hf//+vf7v378dQPYxNjY2BagSMGBhYVEBOm0qUMNBoOZ1QE2rgJqnA+nJQGxIlI1ATQeBGtcD6WVATUuAmqYCNU0B0pOA2IgoG4Ga1wI1LwdqXATUNB+oaS5Q0ywgPRGIDYiyEahxGVDjAiA9D6hpDlDTTKCmaUB6AhDrE2UjUPM8oMbZQHomUNNUoKZJQHoCEGsRZSNQ8wyg5slAehJQ0wSgpvFAeiwQqxNlI1DzJKDGcUA4FqhpDFDTaCA9CojVGAkF+X8GALz1cK6zl5qTAAAAAElFTkSuQmCC) Freelance Embedded Software Developer (2024-Present)
-- Developed CNC machine control software using Python and C
+### ![Simuvill](https://img.shields.io/badge/Simu-003B5C?style=for-the-badge)![Simuvill](https://img.shields.io/badge/Vill-00A78E?style=for-the-badge) Freelance Embedded Software Developer (2024-Present)
+- Developed CNC machine control software using Python and C++
 - Designed and executed test scenarios and test cases
 - Documented and reported bugs, improving software quality
 
-### ![Egyptian Armed Forces](https://img.shields.io/badge/Egyptian%20Armed%20Forces-2E7D32?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAEeSURBVDhPY/wPBAx4ACMjI14pBkZGRqBWBrwakRX///+fAWQAEzMzs4GcnNx/QUHB/+Li4v+5ubmhmkAAqyImJiYDoI1qv3//Pv7nz5/Hf//+vf7v378dQPYxNjY2BagSMGBhYVEBOm0qUMNBoOZ1QE2rgJqnA+nJQGxIlI1ATQeBGtcD6WVATUuAmqYCNU0B0pOA2IgoG4Ga1wI1LwdqXATUNB+oaS5Q0ywgPRGIDYiyEahxGVDjAiA9D6hpDlDTTKCmaUB6AhDrE2UjUPM8oMbZQHomUNNUoKZJQHoCEGsRZSNQ8wyg5slAehJQ0wSgpvFAeiwQqxNlI1DzJKDGcUA4FqhpDFDTaCA9CojVGAkF+X8GALz1cK6zl5qTAAAAAElFTkSuQmCC) Maintenance Engineer (2022-2024)
+### ![Egyptian Armed Forces](https://img.shields.io/badge/Egyptian%20Armed%20Forces-D4AF37?style=for-the-badge) Maintenance Engineer (2022-2024)
 - Conducted inspections, maintenance, and repairs on diesel engines and power stations
 - Resolved mechanical and electrical problems effectively
 - Managed preventive maintenance schedules
