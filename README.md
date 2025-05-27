@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Abdelrahman Kandil
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=Software+Testing+Engineer+%40Sumerge;Manual+%26+Automation+Testing;Software+Quality+Assurance;Embedded+Systems+Background)](https://git.io/typing-svg)
+
 ## 🚀 About Me
-I'm a Software Testing Engineer at Sumerge with a technical background in embedded systems and hands-on experience in both manual and automation testing.
+I'm a Software Testing Engineer at Sumerge with a strong background in embedded systems. I specialize in both manual and automated testing, focusing on delivering high-quality software through comprehensive quality assurance practices. My unique combination of testing expertise and embedded systems knowledge allows me to bring a technical depth to software quality assurance.
 
 I began my journey through intensive training at the Information Technology Institute (ITI) and National Telecommunication Institute (NTI), where I built strong foundations in C/C++, RTOS, Python, and embedded development. During my time at Valeo Testing Academy, I deepened my knowledge of software testing life cycles, black-box and white-box techniques, and test case design.
 
