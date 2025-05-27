@@ -52,9 +52,28 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 
 ### Software Testing
 ![ISTQB](https://img.shields.io/badge/ISTQB%20Foundation%20Level-MaharaTech-blue?style=for-the-badge)
+![Nezam](https://img.shields.io/badge/Software%20Testing%20Bootcamp-Nezam%20Academy-purple?style=for-the-badge)
+![Valeo](https://img.shields.io/badge/Testing%20Academy-Valeo-red?style=for-the-badge)
+
+#### Nezam Academy Software Testing Bootcamp (Oct 2024 - April 2025)
+- Designed and executed comprehensive test scenarios and test cases using Zephyr Scale
+- Built automation frameworks using Java, Selenium WebDriver, TestNG, and Page Object Model (POM)
+- Performed functional and non-functional API testing with Postman, including automated API test scripts
+- Conducted end-to-end mobile application testing across real-world projects
+- Utilized SQL for database validation and executed performance tests to ensure system scalability
+- Practiced Agile methodologies: sprint planning, backlog grooming, and defect tracking using JIRA and Trello
+- Gained in-depth knowledge of SDLC and STLC, focusing on test planning, execution, and reporting
+
+#### Valeo Testing Academy - Batch #5 (Aug 2022 – Sep 2022)
+- Applied white-box, black-box, and experience-based testing techniques in embedded systems
+- Designed and automated test cases using Python
+- Gained hands-on experience in STLC, test planning, and defect tracking
+- Performed manual and automated testing for automotive applications
+
+#### MaharaTech Certifications
 - ISTQB® Foundation Level – MaharaTech
 - Introduction to Software Testing Concepts & Techniques – MaharaTech
-- Effective Test Case and Bug Report Writing Techniques – MaharaTech
+- Effective Test Case and Bug Report Writing Techniques – MaharaTech 
 
 ### Embedded Systems
 ![ITI](https://img.shields.io/badge/Embedded%20Systems%20Track-ITI-orange?style=for-the-badge)
