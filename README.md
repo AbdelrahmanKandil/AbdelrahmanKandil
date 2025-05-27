@@ -17,6 +17,8 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![G-code](https://img.shields.io/badge/G--code-FF4088?style=for-the-badge&logo=code&logoColor=white)
+![PLC](https://img.shields.io/badge/PLC-FF0000?style=for-the-badge&logo=plc&logoColor=white)
 
 ### Testing & QA
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
@@ -37,9 +39,12 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Embedded Systems
+### Embedded Systems & Microcontrollers
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ARM](https://img.shields.io/badge/ARM-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![AVR](https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=atmel&logoColor=white)
+![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![TIVA C](https://img.shields.io/badge/TIVA_C-FF0000?style=for-the-badge&logo=texas-instruments&logoColor=white)
 
 ## 📊 Certifications
 - ISTQB® Foundation Level
