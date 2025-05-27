@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abdelrahman Kandil
 
-<!--
-**AbdelrahmanKandil/AbdelrahmanKandil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a Software Testing Engineer at Sumerge with a technical background in embedded systems and hands-on experience in both manual and automation testing.
 
-Here are some ideas to get you started:
+I began my journey through intensive training at the Information Technology Institute (ITI) and National Telecommunication Institute (NTI), where I built strong foundations in C/C++, RTOS, Python, and embedded development. During my time at Valeo Testing Academy, I deepened my knowledge of software testing life cycles, black-box and white-box techniques, and test case design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At Sumerge, I contribute to delivering high-quality software by designing test cases, executing structured testing cycles, and tracking defects using tools like JIRA and IBM RTC. I apply quality assurance best practices across the SDLC and STLC, collaborating closely with developers and analysts to ensure robust releases.
+
+I'm passionate about software quality, problem-solving, and continuous learning. I'm especially interested in roles that bridge software testing with embedded systems—where performance, precision, and reliability are essential.
+
+## 💻 Tech Stack
+
+### Programming Languages & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Testing & QA
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge&logo=testing-library&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+### Development Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Embedded Systems
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+
+## 📊 Certifications
+- ISTQB® Foundation Level
+- Software Testing Concepts & Techniques
+- Embedded Systems Track (ITI)
+- Embedded Systems Diploma (NTI)
+- Database Fundamentals & SQL
+
+## 🌟 Professional Experience
+- **Sumerge** - Associate Quality Engineer (2025-Present)
+- **Simuvill** - Freelance Embedded Software Developer (2024-Present)
+- **Egyptian Armed Forces Air Defense** - Maintenance Engineer (2022-2024)
+
+## 🔗 Connect with Me
+- LinkedIn: [Abdelrahman Kandil](https://linkedin.com/in/abdulrahman-kandil/)
+- Email: abdelrahmankandil50@gmail.com
+- Phone: +201069420990
+
+## 📈 Current Focus
+- Advancing in Software Quality Assurance
+- Developing Automated Testing Solutions
+- Embedded Systems Development
+- Industrial Automation Systems
+
+---
+⭐️ From [Abdelrahman Kandil](https://github.com/AbdelrahmanKandil) 
