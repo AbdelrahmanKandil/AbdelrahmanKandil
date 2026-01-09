@@ -55,6 +55,25 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![TIVA C](https://img.shields.io/badge/TIVA_C-FF0000?style=for-the-badge&logo=texas-instruments&logoColor=white)
 
+## 🌟 Professional Experience
+
+### ![Sumerge](https://img.shields.io/badge/Sumerge-4B0082?style=for-the-badge) Associate Quality Engineer (April 2025 – Present)
+- Perform manual and automated testing throughout the SDLC and STLC in Agile projects
+- Design and execute test cases for UI and API testing scenarios
+- Automate test scripts using Selenium and REST Assured
+
+### ![Simuvill](https://img.shields.io/badge/Simu-003B5C?style=for-the-badge)![Simuvill](https://img.shields.io/badge/Vill-00A78E?style=for-the-badge) Freelance Embedded Software Developer (Oct 2023 -March2025)
+- Developed CNC machine control software using Python and C++
+- Designed and executed test scenarios and test cases
+- Documented and reported bugs, improving software quality
+
+### ![Egyptian Armed Forces](https://img.shields.io/badge/Egyptian%20Armed%20Forces-D4AF37?style=for-the-badge) Embedded Software Engineer (Oct 2022 – Oct 2024)
+- Led and supervised a team of 50+ soldiers in the operation, maintenance, and support of mission-critical 
+systems.
+- Contributed to the development and testing of embedded software for military-grade systems, ensuring 
+performance under high-reliability and real-time conditions.
+- Resolved mechanical and electrical problems effectively
+
 ## 📊 Certifications & Training
 
 ### Software Testing
@@ -100,24 +119,7 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 ![AUC](https://img.shields.io/badge/Engineering%20English-AUC-red?style=for-the-badge)
 - English for specialized topics (Engineering) by The American University of Cairo (AUC)
 
-## 🌟 Professional Experience
 
-### ![Sumerge](https://img.shields.io/badge/Sumerge-4B0082?style=for-the-badge) Associate Quality Engineer (April 2025 – Present)
-- Perform manual and automated testing throughout the SDLC and STLC in Agile projects
-- Design and execute test cases for UI and API testing scenarios
-- Automate test scripts using Selenium and REST Assured
-
-### ![Simuvill](https://img.shields.io/badge/Simu-003B5C?style=for-the-badge)![Simuvill](https://img.shields.io/badge/Vill-00A78E?style=for-the-badge) Freelance Embedded Software Developer (Oct 2023 -March2025)
-- Developed CNC machine control software using Python and C++
-- Designed and executed test scenarios and test cases
-- Documented and reported bugs, improving software quality
-
-### ![Egyptian Armed Forces](https://img.shields.io/badge/Egyptian%20Armed%20Forces-D4AF37?style=for-the-badge) Embedded Software Engineer (Oct 2022 – Oct 2024)
-- Led and supervised a team of 50+ soldiers in the operation, maintenance, and support of mission-critical 
-systems.
-- Contributed to the development and testing of embedded software for military-grade systems, ensuring 
-performance under high-reliability and real-time conditions.
-- Resolved mechanical and electrical problems effectively
 
 ## 🔗 Connect with Me
 - LinkedIn: [Abdelrahman Kandil](https://linkedin.com/in/abdulrahman-kandil/)
