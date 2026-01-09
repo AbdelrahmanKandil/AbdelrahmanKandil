@@ -22,13 +22,20 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 ![G-code](https://img.shields.io/badge/G--code-FF4088?style=for-the-badge&logo=code&logoColor=white)
 ![PLC](https://img.shields.io/badge/PLC-FF0000?style=for-the-badge&logo=plc&logoColor=white)
 
-### Testing & QA
+### 🧪 Testing & QA
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge&logo=testing-library&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-007ACC?style=for-the-badge&logo=testng&logoColor=white)
+
+### 📋 Management Tools
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![RTC](https://img.shields.io/badge/IBM_RTC-0F62FE?style=for-the-badge&logo=ibm&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Azure_DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -95,20 +102,22 @@ I'm passionate about software quality, problem-solving, and continuous learning.
 
 ## 🌟 Professional Experience
 
-### ![Sumerge](https://img.shields.io/badge/Sumerge-4B0082?style=for-the-badge) Associate Quality Engineer (2025-Present)
+### ![Sumerge](https://img.shields.io/badge/Sumerge-4B0082?style=for-the-badge) Associate Quality Engineer (April 2025 – Present)
 - Perform manual and automated testing throughout the SDLC and STLC in Agile projects
 - Design and execute test cases for UI and API testing scenarios
 - Automate test scripts using Selenium and REST Assured
 
-### ![Simuvill](https://img.shields.io/badge/Simu-003B5C?style=for-the-badge)![Simuvill](https://img.shields.io/badge/Vill-00A78E?style=for-the-badge) Freelance Embedded Software Developer (2024-Present)
+### ![Simuvill](https://img.shields.io/badge/Simu-003B5C?style=for-the-badge)![Simuvill](https://img.shields.io/badge/Vill-00A78E?style=for-the-badge) Freelance Embedded Software Developer (Oct 2023 -March2025)
 - Developed CNC machine control software using Python and C++
 - Designed and executed test scenarios and test cases
 - Documented and reported bugs, improving software quality
 
-### ![Egyptian Armed Forces](https://img.shields.io/badge/Egyptian%20Armed%20Forces-D4AF37?style=for-the-badge) Maintenance Engineer (2022-2024)
-- Conducted inspections, maintenance, and repairs on diesel engines and power stations
+### ![Egyptian Armed Forces](https://img.shields.io/badge/Egyptian%20Armed%20Forces-D4AF37?style=for-the-badge) Embedded Software Engineer (Oct 2022 – Oct 2024)
+- Led and supervised a team of 50+ soldiers in the operation, maintenance, and support of mission-critical 
+systems.
+- Contributed to the development and testing of embedded software for military-grade systems, ensuring 
+performance under high-reliability and real-time conditions.
 - Resolved mechanical and electrical problems effectively
-- Managed preventive maintenance schedules
 
 ## 🔗 Connect with Me
 - LinkedIn: [Abdelrahman Kandil](https://linkedin.com/in/abdulrahman-kandil/)
