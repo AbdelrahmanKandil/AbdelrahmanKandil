@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Abdelrahman Kandil
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4B0082&width=435&lines=Senior+Automation+Test+Engineer+%40+VOIS;AI+Testing+%26+LLM+Evaluation;Manual+%26+Automation+Testing;Embedded+Systems+Background)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Senior+Automation+Test+Engineer+%40+VOIS;AI+Testing+%26+LLM+Evaluation;Manual+%26+Automation+Testing;Embedded+Systems+Background)](https://git.io/typing-svg)
 
 ## 🚀 About Me
 I'm a Senior Automation Test Engineer at VOIS, where I test TOBi, Vodafone's AI assistant. I work on LLM evaluation, conversational AI quality, and UI and API automation with Playwright. Before VOIS, I worked at Sumerge and KLAO, delivering manual and automated testing across Agile projects.
