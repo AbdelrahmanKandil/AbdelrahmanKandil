@@ -154,14 +154,9 @@ My embedded-systems background (ITI, NTI, Valeo Testing Academy) gives me depth 
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AbdelrahmanKandil&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&cache_seconds=1800">
-  <img alt="GitHub stats" width="480" src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanKandil&show_icons=true&theme=default&hide_border=true&include_all_commits=true&cache_seconds=1800">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanKandil&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800&langs_count=6">
-  <img alt="Top languages" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanKandil&layout=compact&theme=default&hide_border=true&cache_seconds=1800&langs_count=6">
-</picture>
+<img alt="GitHub stats, public and private" src="https://raw.githubusercontent.com/AbdelrahmanKandil/AbdelrahmanKandil/main/metrics/overview.svg">
+
+<img alt="Top languages, public and private" src="https://raw.githubusercontent.com/AbdelrahmanKandil/AbdelrahmanKandil/main/metrics/languages.svg">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbdelrahmanKandil/AbdelrahmanKandil/output/github-snake-dark.svg">
