@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E60000,100:1A1A1A&height=190&section=header&text=Abdelrahman%20Kandil&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Senior%20Automation%20Test%20Engineer%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Conversational%20AI&descAlignY=58&descAlign=50" width="100%" alt="Abdelrahman Kandil, Senior Automation Test Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E60000,100:1A1A1A&height=190&section=header&text=Abdelrahman%20Kandil&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Senior%20Automation%20Test%20Engineer%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Conversational%20AI&descAlignY=58&descAlign=50" width="100%" alt="Abdelrahman Kandil, Senior Test Automation Engineer">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E60000&center=true&vCenter=true&width=520&lines=Testing+TOBi%2C+Vodafone's+AI+assistant;LLM+Evaluation+%26+Conversational+AI+Quality;Playwright+UI+%26+API+Automation;Embedded+Systems+Background)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
 
 ## 🚀 About me
 
-I'm a Senior Automation Test Engineer at VOIS, testing **TOBi**, Vodafone's AI assistant: LLM evaluation, conversational AI quality, and UI/API automation with Playwright.
+I'm a Senior Test Automation Engineer at VOIS, testing **TOBi**, Vodafone's AI assistant: LLM evaluation, conversational AI quality, and UI/API automation with Playwright.
 
 My embedded-systems background (ITI, NTI, Valeo Testing Academy) gives me depth in software quality, from C/C++ and RTOS to test design and STLC.
 
@@ -82,7 +82,7 @@ My embedded-systems background (ITI, NTI, Valeo Testing Academy) gives me depth 
 ## 🌟 Experience
 
 <details open>
-<summary><b>VOIS · Senior Automation Test Engineer</b> (Jul 2026 – Present)</summary>
+<summary><b>VOIS · Senior Test Automation Engineer</b> (Jul 2026 – Present)</summary>
 
 <br>
 
@@ -95,7 +95,7 @@ My embedded-systems background (ITI, NTI, Valeo Testing Academy) gives me depth 
 </details>
 
 <details>
-<summary><b>KLAO · Senior Automation Test Engineer</b> (Jan 2026 – Aug 2026)</summary>
+<summary><b>KLAO · Senior Test Automation Engineer</b> (Jan 2026 – Aug 2026)</summary>
 
 <br>
 
