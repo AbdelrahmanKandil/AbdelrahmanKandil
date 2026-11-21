@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E60000,100:1A1A1A&height=190&section=header&text=Abdelrahman%20Kandil&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Senior%20Automation%20Test%20Engineer%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Conversational%20AI&descAlignY=58&descAlign=50" width="100%" alt="Abdelrahman Kandil, Senior Test Automation Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E60000,100:1A1A1A&height=190&section=header&text=Abdelrahman%20Kandil&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Senior%20Test%20Automation%20Engineer%20%C2%B7%20LLM%20Evaluation%20%C2%B7%20Conversational%20AI&descAlignY=58&descAlign=50" width="100%" alt="Abdelrahman Kandil, Senior Test Automation Engineer">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E60000&center=true&vCenter=true&width=520&lines=Testing+TOBi%2C+Vodafone's+AI+assistant;LLM+Evaluation+%26+Conversational+AI+Quality;Playwright+UI+%26+API+Automation;Embedded+Systems+Background)](https://git.io/typing-svg)
 
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdulrahman-kandil/)
 [![Email](https://img.shields.io/badge/Email-E60000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelrahmankandil50@gmail.com)
 
-[![VOIS](https://img.shields.io/badge/Now-Senior%20Automation%20Test%20Engineer%20%40%20VOIS-E60000?style=for-the-badge)](https://github.com/AbdelrahmanKandil)
+[![VOIS](https://img.shields.io/badge/Now-Senior%20Test%20Automation%20Engineer%20%40%20VOIS-E60000?style=for-the-badge)](https://github.com/AbdelrahmanKandil)
 [![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level-1A1A1A?style=for-the-badge)](https://github.com/AbdelrahmanKandil)
 [![Team](https://img.shields.io/badge/Led-50%2B%20team%20members-1A1A1A?style=for-the-badge)](https://github.com/AbdelrahmanKandil)
 
